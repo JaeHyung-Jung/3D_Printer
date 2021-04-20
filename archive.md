@@ -69,11 +69,7 @@ description: 이 페이지는 3D Printer로 출력한 작품들을 기록한다.
 * 제목 : sample before print(sliced model)
 * 사진 : ![image](https://user-images.githubusercontent.com/79160507/115339830-84576b80-a1e0-11eb-8d70-c98c8d5cbd90.png)
 * 용도 : 샘플 출력
-* 크기\(mm\) : 296.1 x 167 x 76.9 (69% scale)
-* 소요 시간 / 품질 : 최고품질 / 108시간
-* 소요 시간 / 품질 : 표준 / 30시간 39분
 * 결과 : 
-
 
 
 ## \`21.04.20
@@ -85,7 +81,11 @@ description: 이 페이지는 3D Printer로 출력한 작품들을 기록한다.
 * 소요 시간 / 품질 : 표준 / 6분
 * 소요 시간 / 품질 : 고급 / 9분
 * 소요 시간 / 품질 : 최고급 / 15분
-* 결과 : 
+* 결과 : 실패 / 크기가 너무작아 책상윗면이 출력되지않았고 또한 기둥이 반정도높이까지 출력되다가 그 윗부분은 동일하게 크기문제로 흘러내림
+ ![image](https://user-images.githubusercontent.com/79160507/115346060-a2c26480-a1ea-11eb-8663-6932b42860a7.png)
+![image](https://user-images.githubusercontent.com/79160507/115346078-a81faf00-a1ea-11eb-8572-0794087232e2.png)
+![image](https://user-images.githubusercontent.com/79160507/115346084-aa820900-a1ea-11eb-87a4-9a91bdbb4ea0.png)
+![Uploading KakaoTalk_20210420_151045454.gif…]()
 
 
 
