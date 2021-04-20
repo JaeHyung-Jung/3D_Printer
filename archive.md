@@ -64,24 +64,26 @@ description: 이 페이지는 3D Printer로 출력한 작품들을 기록한다.
 * 소요 시간 / 품질 : 10분 / 표준
 * 결과 : 반성공 / 기본적으로 모델이 축소버전이라 의자의 다리가 매우얇아서 잘 출력되지 않았다. 기존 출력하였던 모델을 lay flat하여더니 등받이는 제대로 출력됨  
 
-## \`YY.MM.DD
+## \`21.04.20
 
-* 제목 : 
-* 사진 : 
-* 용도 : 
-* 크기\(mm\) :  
-* 소요 시간 / 품질 :
+* 제목 : sample before print(sliced model)
+* 사진 : ![image](https://user-images.githubusercontent.com/79160507/115339830-84576b80-a1e0-11eb-8d70-c98c8d5cbd90.png)
+* 용도 : 샘플 출력
+* 크기\(mm\) : 296.1 x 167 x 76.9 (69% scale)
+* 소요 시간 / 품질 : 최고품질 / 108시간
+* 소요 시간 / 품질 : 표준 / 30시간 39분
 * 결과 : 
 
 
 
 ## \`YY.MM.DD
 
-* 제목 : 
-* 사진 : 
-* 용도 : 
-* 크기\(mm\) :  
-* 소요 시간 / 품질 :
+* 제목 : sample desk before print(sliced model)
+* 사진 : ![image](https://user-images.githubusercontent.com/79160507/115340140-237c6300-a1e1-11eb-9348-0f44ef36609d.png)
+* 용도 : 샘플 출력
+* 크기\(mm\) : 23.5 x 15.7 x 14.3 (69% scale)
+* 소요 시간 / 품질 : 표준 / 6분
+* 소요 시간 / 품질 : 최고급 / 15분
 * 결과 : 
 
 
