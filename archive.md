@@ -74,7 +74,7 @@ description: 이 페이지는 3D Printer로 출력한 작품들을 기록한다.
 
 ## \`21.04.20
 
-* 제목 : sample desk before print(sliced model)
+* 제목 : sample desk before print #1(sliced model)
 * 사진 : ![image](https://user-images.githubusercontent.com/79160507/115340140-237c6300-a1e1-11eb-9348-0f44ef36609d.png)
 * 용도 : 샘플 출력
 * 크기\(mm\) : 23.5 x 15.7 x 14.3 (69% scale)
@@ -87,7 +87,7 @@ description: 이 페이지는 3D Printer로 출력한 작품들을 기록한다.
 
 ## \`21.04.20
 
-* 제목 : sample desk before print(sliced model)
+* 제목 : sample desk before print #2(sliced model)
 * 사진 : ![image](https://user-images.githubusercontent.com/79160507/115340140-237c6300-a1e1-11eb-9348-0f44ef36609d.png)
 * 용도 : 샘플 출력
 * 크기\(mm\) : 23.5 x 15.7 x 14.3 (69% scale)
@@ -100,13 +100,13 @@ description: 이 페이지는 3D Printer로 출력한 작품들을 기록한다.
 
 
 
-## \`YY.MM.DD
+## \`21.04.20
 
-* 제목 : 
-* 사진 : 
-* 용도 : 
-* 크기\(mm\) :  
-* 소요 시간 / 품질 :
+* 제목 : sample desks for finding error
+* 사진 : ![image](https://user-images.githubusercontent.com/79160507/115352194-0ac87900-a1f2-11eb-905b-23eadf4856d1.png)
+* 용도 : sample desk before print(#1, #2)의 책상 윗부분이 출력되지않는 현상의 원인을 원본 스케일과 비교하여 알고자 각 책상의 69%, 100% 모델을 모두 출력
+* 크기\(mm\) : 34.1x22.8x20.8 / 23.5x15.7x14.3 / 22.7x22.8x20.8 / 15.7x15.7x14.3
+* 소요 시간 / 품질 : 47분 / 고급
 * 결과 : 
 
 
