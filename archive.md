@@ -76,7 +76,7 @@ description: 이 페이지는 3D Printer로 출력한 작품들을 기록한다.
 
 
 
-## \`YY.MM.DD
+## \`21.04.20
 
 * 제목 : sample desk before print(sliced model)
 * 사진 : ![image](https://user-images.githubusercontent.com/79160507/115340140-237c6300-a1e1-11eb-9348-0f44ef36609d.png)
