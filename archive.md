@@ -85,9 +85,6 @@ description: 이 페이지는 3D Printer로 출력한 작품들을 기록한다.
  ![image](https://user-images.githubusercontent.com/79160507/115346060-a2c26480-a1ea-11eb-8663-6932b42860a7.png)
 ![image](https://user-images.githubusercontent.com/79160507/115346078-a81faf00-a1ea-11eb-8572-0794087232e2.png)
 ![image](https://user-images.githubusercontent.com/79160507/115346084-aa820900-a1ea-11eb-87a4-9a91bdbb4ea0.png)
-![KakaoTalk_20210420_151045454 (2) (1)](https://user-images.githubusercontent.com/79160507/115346952-ca65fc80-a1eb-11eb-87b1-641703a2e6d6.gif)
-
-
 
 
 ## \`YY.MM.DD
