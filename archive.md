@@ -78,23 +78,25 @@ description: 이 페이지는 3D Printer로 출력한 작품들을 기록한다.
 * 사진 : ![image](https://user-images.githubusercontent.com/79160507/115340140-237c6300-a1e1-11eb-9348-0f44ef36609d.png)
 * 용도 : 샘플 출력
 * 크기\(mm\) : 23.5 x 15.7 x 14.3 (69% scale)
-* 소요 시간 / 품질 : 표준 / 6분
-* 소요 시간 / 품질 : 고급 / 9분
 * 소요 시간 / 품질 : 최고급 / 15분
-* 결과 : 실패 / 크기가 너무작아 책상윗면이 출력되지않았고 또한 기둥이 반정도높이까지 출력되다가 그 윗부분은 동일하게 크기문제로 흘러내림
+* 결과 : 실패 / 크기가 너무작아 책상윗면이 출력되지않았고 또한 다리가 반정도높이까지 출력되다가 그 윗부분은 동일하게 크기문제로 흘러내림
  ![image](https://user-images.githubusercontent.com/79160507/115346060-a2c26480-a1ea-11eb-8663-6932b42860a7.png)
 ![image](https://user-images.githubusercontent.com/79160507/115346078-a81faf00-a1ea-11eb-8572-0794087232e2.png)
 ![image](https://user-images.githubusercontent.com/79160507/115346084-aa820900-a1ea-11eb-87a4-9a91bdbb4ea0.png)
 
 
-## \`YY.MM.DD
+## \`21.04.20
 
-* 제목 : 
-* 사진 : 
-* 용도 : 
-* 크기\(mm\) :  
-* 소요 시간 / 품질 :
-* 결과 : 
+* 제목 : sample desk before print(sliced model)
+* 사진 : ![image](https://user-images.githubusercontent.com/79160507/115340140-237c6300-a1e1-11eb-9348-0f44ef36609d.png)
+* 용도 : 샘플 출력
+* 크기\(mm\) : 23.5 x 15.7 x 14.3 (69% scale)
+* 소요 시간 / 품질 : 고급 / 9분
+* 결과 : 실패 / 책상다리는 모두 출력됐으나 책상 윗면이 출력되지않음
+![KakaoTalk_20210420_155018637](https://user-images.githubusercontent.com/79160507/115350685-60038b00-a1f0-11eb-83cf-3617f6104e8b.jpg)
+![KakaoTalk_20210420_155018786](https://user-images.githubusercontent.com/79160507/115350695-6134b800-a1f0-11eb-8b31-6e4e78105448.jpg)
+![KakaoTalk_20210420_155019670](https://user-images.githubusercontent.com/79160507/115350703-6265e500-a1f0-11eb-8202-3c23d29929f2.jpg)
+
 
 
 
