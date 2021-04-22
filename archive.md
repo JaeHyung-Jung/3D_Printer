@@ -130,6 +130,8 @@ Raft를 떼기 전(출력품의 변화가 없는 상태)
 Raft를 제거하고 Support가 남은상태
 ![image](https://user-images.githubusercontent.com/79160507/115668786-7d685e80-a382-11eb-868a-596611aeca02.png)
 Support를 제거한 탁자의 모습
+![image](https://user-images.githubusercontent.com/79160507/115671011-fff21d80-a384-11eb-867a-a7b03abace84.png)
+위에서 바라본 모습
 
 
 ## \`YY.MM.DD
