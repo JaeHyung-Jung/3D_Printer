@@ -122,8 +122,14 @@ description: 이 페이지는 3D Printer로 출력한 작품들을 기록한다.
 * 용도 : 샘플 출력
 * 크기\(mm\) : 59.7 x 59.7 x 31.8 (150% scale) 
 * 소요 시간 / 품질 : 고품질 / 160분
-* 결과 : 
-
+* 결과 : 성공
+![image](https://user-images.githubusercontent.com/79160507/115668625-4d20c000-a382-11eb-9b5d-090fe5b07210.png)
+![image](https://user-images.githubusercontent.com/79160507/115668636-50b44700-a382-11eb-8708-03a923e45a08.png)
+Raft를 떼기 전(출력품의 변화가 없는 상태)
+![image](https://user-images.githubusercontent.com/79160507/115668722-6c1f5200-a382-11eb-8f41-ff8469b5d723.png)
+Raft를 제거하고 Support가 남은상태
+![image](https://user-images.githubusercontent.com/79160507/115668786-7d685e80-a382-11eb-868a-596611aeca02.png)
+Support를 제거한 탁자의 모습
 
 
 ## \`YY.MM.DD
