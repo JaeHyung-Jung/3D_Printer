@@ -89,4 +89,25 @@ Import to ideaMaker를 누르면
 * Lay flat : 3D프린팅의 구조적 한계\(z축을 단면으로 올라가면서 출력\)로 출력을 실패할 수 있는 모델의 무게중심을 낮춘다던가 넓고 평평한 면을 아래로 보낼때 사용하는 기능이다.
 
 
+## 실제 사용법 (모델을 불러오고 Printer로 출력하기까지)
+
+이제 위 Installation목차를 통해 설치를했거나 이미 ideamaker가 설치된 후에, 어떻게 프린터를 통해 실제로 모델을 load하고 출력하는지 알아봅시다.
+![image](https://user-images.githubusercontent.com/79160507/115663883-19429c00-a37c-11eb-871e-c2d6bc050475.png)
+ideamaker를 실행하면 다음과 같은 창이 나옵니다.
+여기서 모델불러오기 버튼을 통해 PC의 local에 저장된 3D 모델(.stl, .obj)을 불러옵니다. 
+* 만약 ideamaker에서 불러올 수 없는 확장자(ex: .stp)라면 CAD의 import를 통해 .stp파일을 불러온 후 영역을 지정하여 .stp파일을 .obj나 .stl로 변환하여 저장해준 후에 ideamaker로 열면 된다.
+
+![image](https://user-images.githubusercontent.com/79160507/115664399-bac9ed80-a37c-11eb-8fff-70eff96936e0.png)
+모델 불러오기 버튼을 누르고 PC에 저장된 3D모델 파일을 불러오면 다음과 같이 모델이 가상의 히팅베드 좌표위에 나오게된다. 
+
+모델을 불러오면 슬라이싱 시작 버튼을 누르면 다음과 같은 화면이 뜨는데
+![image](https://user-images.githubusercontent.com/79160507/115664529-eb118c00-a37c-11eb-9eb5-410995cac6a8.png)
+원하는 품질을 선택한 후 오른쪽 밑의 '슬라이스'버튼을 클릭하면 
+![image](https://user-images.githubusercontent.com/79160507/115664604-04b2d380-a37d-11eb-9f3c-2b4a67f39f68.png)
+위의 그림과 같이 예상 소요시간과 필라멘트 사용량, 가격등의 정보가 뜬다. 
+여기서 대부분은 미리보기를 통해 어떤식으로 모델이 슬라이스 됐는지 확인 한 후에 슬라이스된 모델을 프린터에 업로드해준다.
+프린터에 sliced model이 업로드되면 Pro2 Plus를 직접 조작하여 load된 모델을 print하여 줄 수 있다.
+
+
+
 
