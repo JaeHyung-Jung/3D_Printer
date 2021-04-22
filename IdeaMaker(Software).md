@@ -91,7 +91,7 @@ Import to ideaMaker를 누르면
 
 ## 실제 사용법 (모델을 불러오고 Printer로 출력하기까지)
 
-이제 위 Installation목차를 통해 설치를했거나 이미 ideamaker가 설치된 후에, 어떻게 프린터를 통해 실제로 모델을 load하고 출력하는지 알아봅시다.
+이제 어떻게 ideamaker와 프린터를 통해 실제로 모델을 load하고 출력하는지 알아봅시다.
 ![image](https://user-images.githubusercontent.com/79160507/115663883-19429c00-a37c-11eb-871e-c2d6bc050475.png)
 ideamaker를 실행하면 다음과 같은 창이 나옵니다.
 여기서 모델불러오기 버튼을 통해 PC의 local에 저장된 3D 모델(.stl, .obj)을 불러옵니다. 
