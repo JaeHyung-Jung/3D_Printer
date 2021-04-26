@@ -141,7 +141,11 @@ Support를 제거한 탁자의 모습
 * 용도 : Filament 교체(PLA -> PLA Pro A1)후 테스트 
 * 크기\(mm\) : 55.3 x 31.6 x 33.1
 * 소요 시간 / 품질 : 2시간 6분 / 고품질
-* 결과 : 
+* 결과 : 성공
+![KakaoTalk_20210426_164443135](https://user-images.githubusercontent.com/79160507/116047286-e4518480-a6ae-11eb-9e81-5da17b650075.jpg)
+![KakaoTalk_20210426_164443674](https://user-images.githubusercontent.com/79160507/116047295-e4ea1b00-a6ae-11eb-898f-996fff046d29.jpg)
+![KakaoTalk_20210426_164444175](https://user-images.githubusercontent.com/79160507/116047297-e61b4800-a6ae-11eb-983b-570d139d218e.jpg)
+필라멘트를 Pro A1으로 교체한 후 매우 성공적으로 출력됨. 
 
 
 
