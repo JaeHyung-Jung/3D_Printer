@@ -149,14 +149,19 @@ Support를 제거한 탁자의 모습
 
 
 
-## \`YY.MM.DD
+## \`21.04.26
 
-* 제목 : 
-* 사진 : 
-* 용도 : 
-* 크기\(mm\) :  
-* 소요 시간 / 품질 :
-* 결과 : 
+* 제목 : Easter Bunny
+* 사진 : ![image](https://user-images.githubusercontent.com/79160507/116076537-520da880-a6cf-11eb-9970-fe734e8d5a0d.png)
+* 용도 : 필라멘트 교체 후 고난도 작업 테스트 및 관상용
+* 크기\(mm\) : 35.4 x 37.6 x 50
+* 소요 시간 / 품질 : 2시간 33분 / 고품질
+* 결과 : 성공
+![KakaoTalk_20210426_203527800](https://user-images.githubusercontent.com/79160507/116076750-9c8f2500-a6cf-11eb-8497-7ea79487a2e6.jpg)
+![KakaoTalk_20210426_203528391](https://user-images.githubusercontent.com/79160507/116076753-9e58e880-a6cf-11eb-9303-a97989ba2aad.jpg)
+![KakaoTalk_20210426_203528986](https://user-images.githubusercontent.com/79160507/116076757-9f8a1580-a6cf-11eb-888f-bbaccd98c5ea.jpg)
+![KakaoTalk_20210426_203529431](https://user-images.githubusercontent.com/79160507/116076762-a0bb4280-a6cf-11eb-96f1-282a91ab13c3.jpg)
+
 
 
 
