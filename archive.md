@@ -134,13 +134,13 @@ Support를 제거한 탁자의 모습
 위에서 바라본 모습
 
 
-## \`YY.MM.DD
+## \`21.04.26
 
-* 제목 : 
-* 사진 : 
-* 용도 : 
-* 크기\(mm\) :  
-* 소요 시간 / 품질 :
+* 제목 : Sleeping Fox
+* 사진 : ![image](https://user-images.githubusercontent.com/79160507/116032559-e3165c80-a69a-11eb-9356-690be0fda8a9.png)
+* 용도 : Filament 교체(PLA -> PLA Pro A1)후 테스트 
+* 크기\(mm\) : 55.3 x 31.6 x 33.1
+* 소요 시간 / 품질 : 2시간 6분 / 고품질
 * 결과 : 
 
 
