@@ -163,13 +163,13 @@ Support를 제거한 탁자의 모습
 ![KakaoTalk_20210426_203529431](https://user-images.githubusercontent.com/79160507/116076762-a0bb4280-a6cf-11eb-96f1-282a91ab13c3.jpg)
 
 
-## \`YY.MM.DD
+## \`21.05.11
 
-* 제목 : 
-* 사진 : 
-* 용도 : 
-* 크기\(mm\) :
-* 소요 시간 / 품질 : 
+* 제목 : 전체도면
+* 사진 : ![image](https://user-images.githubusercontent.com/79160507/117746338-3f56b000-b247-11eb-8654-e0d097390670.png)
+* 용도 : 최고품질의 출력품질 확인 및 샘플 모델 출력
+* 크기\(mm\) : 269.2 x 234.8 x 37.5
+* 소요 시간 / 품질 : 25시간 / 최고품질
 * 결과 : 
 
 ## \`YY.MM.DD
