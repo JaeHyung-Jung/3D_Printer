@@ -177,8 +177,8 @@ Support를 제거한 탁자의 모습
 ## \`21.05.12
 * 제목 : 전체도면_split_2
 * 사진 : 
-[모델_3_슬라이싱1](https://user-images.githubusercontent.com/79160507/117916859-f1af7580-b322-11eb-9cf6-01ba8567542d.PNG)
-[모델_3_슬라이싱2](https://user-images.githubusercontent.com/79160507/117916909-0986f980-b323-11eb-9a53-933a2d1e37a2.PNG)
+![모델_3_슬라이싱2](https://user-images.githubusercontent.com/79160507/117917087-5965c080-b323-11eb-9ba0-8482d3940d2e.PNG)
+![모델_3_슬라이싱1](https://user-images.githubusercontent.com/79160507/117917101-5d91de00-b323-11eb-8b13-e7c8498ebe1a.PNG)
 * 용도 : 샘플 출력
 * 크기\(mm\) : 159.8 x 242.1 x 111.5
 * 소요 시간 / 품질 : 122시간 / 최고품질
