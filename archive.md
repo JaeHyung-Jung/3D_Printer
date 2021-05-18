@@ -182,8 +182,7 @@ Support를 제거한 탁자의 모습
 * 용도 : 샘플 출력
 * 크기\(mm\) : 159.8 x 242.1 x 111.5
 * 소요 시간 / 품질 : 122시간 / 최고품질
-* 결과 :
-
+* 결과 : ![all_3](https://user-images.githubusercontent.com/79160507/118575771-2d828900-b7c2-11eb-9ea5-245d6ecf4060.jpg)
 
 ## \`YY.MM.DD
 
