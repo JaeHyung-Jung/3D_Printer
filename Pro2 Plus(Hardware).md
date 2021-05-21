@@ -178,5 +178,37 @@ Pro2 Plus도 heating bed를 사용하며 공식 홈페이지에서는 '탁월한
 이 방법 외에 RaiseCloud를 사용하면 Wifi나 이더넷에 상관없이 Cloud를 통해서 연결을 할 수 있고
 RaiseCloud는 모바일용 Application도있어 휴대폰에서도 출력이나 프린팅 과정 모니터링이 가능하다.
 
+RaiseCloud Web_Link(PC) : https://cloud.raise3d.com/raise3d.html   
+RaiseCloud APP(Mobile) : https://play.google.com/store/apps/details?id=com.raise3d.raisecloud
+   
+Web기준으로 설명하겠습니다.
+![image](https://user-images.githubusercontent.com/79160507/119068455-2dcb9000-ba1f-11eb-891d-6b32beb77aee.png)
+웹에 접속한 후 로그인을 하면 다음과 같은 첫화면이 나옵니다.   
+   
+우측상단의 계정 이름부분을 클릭하면 
+![image](https://user-images.githubusercontent.com/79160507/119068503-4c318b80-ba1f-11eb-8d4d-893a73894d73.png)   
+이렇게 DashBoard, Sign out버튼이 나오는데 DashBoard를 눌러줍니다.   
+   
+![image](https://user-images.githubusercontent.com/79160507/119068544-679c9680-ba1f-11eb-9d9d-978e1676a635.png)
+Dashboard에는 Printer의 작업상황과 시간별 Filament 사용량 그래프, Team Information이 나옵니다.
+   
+출력중인 작품의 진행상황 또는 설정변경, 정지, 재개등을 하려면 Printing(N)을 클릭해줍니다.   
+![image](https://user-images.githubusercontent.com/79160507/119068701-adf1f580-ba1f-11eb-9e9a-4675175f6b17.png)   
+Printing버튼을 클릭하면 다음과 같이 좌측, 우측노즐과 히팅베드, 기타 세부옵션등의 값들이 나오고   
+프린트 진행상황, 좌측노즐과 우측노즐의 Filament 잔량이 뜹니다.   
+   
+   ![image](https://user-images.githubusercontent.com/79160507/119068810-daa60d00-ba1f-11eb-8535-1c3f8ce21060.png)   
+우측상단의 동그라미친 버튼을 누르게되면   
+![image](https://user-images.githubusercontent.com/79160507/119068846-ed204680-ba1f-11eb-9b3d-5fc01b0c299d.png)   
+다음과 같이 현재 진행중인 작업의 일시정지, 정지, 재개등의 기능을 사용할 수 있고
+Raise-Pro라인의 프린트 내부 Camera를 통해 진행상황을 실시간으로 모니터링 할 수도 있습니다. (사진에서는 Camera를 Activate하지 않아 보이지 않음)   
+   
+진행상황과 카메라를 통한 모니터링 등 거의 모든 RaiseCloud의 기능들을 APP을 통해 모바일에서도 사용할 수 있습니다.
+
+
+
+
+  
+
 
 
