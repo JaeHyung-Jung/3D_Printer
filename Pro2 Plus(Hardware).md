@@ -177,6 +177,7 @@ Pro2 Plus도 heating bed를 사용하며 공식 홈페이지에서는 '탁월한
 
 이 방법 외에 RaiseCloud를 사용하면 Wifi나 이더넷에 상관없이 Cloud를 통해서 연결을 할 수 있고
 RaiseCloud는 모바일용 Application도있어 휴대폰에서도 출력이나 프린팅 과정 모니터링이 가능하다.
+(프린트를 RaiseCloud의 계정과 Bind하는 작업이 필요한데 이미 Bind해줬으나 만약 어떠한 이유로 다시 Bind를 해야한다면 https://cloud.raise3d.com/html/howtobind.html를 참고)   
 
 RaiseCloud Web_Link(PC) : https://cloud.raise3d.com/raise3d.html   
 RaiseCloud APP(Mobile) : https://play.google.com/store/apps/details?id=com.raise3d.raisecloud
@@ -201,7 +202,8 @@ Printing버튼을 클릭하면 다음과 같이 좌측, 우측노즐과 히팅�
 우측상단의 동그라미친 버튼을 누르게되면   
 ![image](https://user-images.githubusercontent.com/79160507/119068846-ed204680-ba1f-11eb-9b3d-5fc01b0c299d.png)   
 다음과 같이 현재 진행중인 작업의 일시정지, 정지, 재개등의 기능을 사용할 수 있고   
-Raise-Pro시리즈의 제품에 포함된 프린트 내부 Camera를 통해 진행상황을 실시간으로 모니터링 할 수도 있습니다. (사진에서는 Camera를 Activate하지 않아 보이지 않음)   
+Raise-Pro시리즈의 제품에 포함된 프린트 내부 Camera를 통해 진행상황을 실시간으로 모니터링 할 수도 있습니다.    
+(사진에서는 Camera를 Activate하지 않아 보이지 않음)   
    
 진행상황과 카메라를 통한 모니터링 등 거의 모든 RaiseCloud의 기능들을 APP을 통해 모바일에서도 사용할 수 있습니다.
 
