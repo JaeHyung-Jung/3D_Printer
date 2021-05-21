@@ -200,8 +200,8 @@ Printing버튼을 클릭하면 다음과 같이 좌측, 우측노즐과 히팅�
    ![image](https://user-images.githubusercontent.com/79160507/119068810-daa60d00-ba1f-11eb-8535-1c3f8ce21060.png)   
 우측상단의 동그라미친 버튼을 누르게되면   
 ![image](https://user-images.githubusercontent.com/79160507/119068846-ed204680-ba1f-11eb-9b3d-5fc01b0c299d.png)   
-다음과 같이 현재 진행중인 작업의 일시정지, 정지, 재개등의 기능을 사용할 수 있고
-Raise-Pro라인의 프린트 내부 Camera를 통해 진행상황을 실시간으로 모니터링 할 수도 있습니다. (사진에서는 Camera를 Activate하지 않아 보이지 않음)   
+다음과 같이 현재 진행중인 작업의 일시정지, 정지, 재개등의 기능을 사용할 수 있고   
+Raise-Pro시리즈의 제품에 포함된 프린트 내부 Camera를 통해 진행상황을 실시간으로 모니터링 할 수도 있습니다. (사진에서는 Camera를 Activate하지 않아 보이지 않음)   
    
 진행상황과 카메라를 통한 모니터링 등 거의 모든 RaiseCloud의 기능들을 APP을 통해 모바일에서도 사용할 수 있습니다.
 
