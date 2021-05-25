@@ -207,7 +207,16 @@ Raise-Pro시리즈의 제품에 포함된 프린트 내부 Camera를 통해 진�
    
 진행상황과 카메라를 통한 모니터링 등 거의 모든 RaiseCloud의 기능들을 APP을 통해 모바일에서도 사용할 수 있습니다.
 
-
+## RaiseCloud를 통해서 모델을 Slicing하고 출력하는 방법   
+RaiseCloud에 .stl파일(모델)이 업로드되었다면 이 모델을 슬라이싱한 후 추출된 Gcode파일을 통해 프린트를 할 수 있습니다.   
+   
+![image](https://user-images.githubusercontent.com/79160507/119426376-10126980-bd44-11eb-9d94-dd0dda1908a2.png)   
+위 그림과 같이 stl파일에 커서를올리면 동그라미 친 부분의 Slice버튼이 보이는데 이 버튼을 클릭해 모델을 Slice합니다.   
+Slice는 Ideamaker를 통해서 할 수 있습니다.   
+서포트를 대주고 모델의 출력품질 등을 설정한 후 슬라이싱하면 Gcode파일이 생성되는데 이 파일을 RaiseCloud로 업로드해줍니다.   
+   
+![image](https://user-images.githubusercontent.com/79160507/119426538-6384b780-bd44-11eb-8654-3259a7a7198a.png)   
+업로드 된 Gcode파일에 커서를 올리면 프린트 버튼(동그라미 친 버튼)이 보입니다. 이제 출력을 위한 모든 준비가 끝났습니다.
 
 
   
