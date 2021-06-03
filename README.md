@@ -6,39 +6,24 @@ description: This webpage is for 3D printer usage in Sierra Base
 
 ## 사용 모델 : RAISE 3D pro2 plus
 
-![&#xC774;&#xBBF8;&#xC9C0; &#xCD9C;&#xCC98; : https://www.raise3d.com/pro2-plus/](.gitbook/assets/image%20%287%29.png)
+## 각 목차별 설명 및 본페이지 사용법
 
-이 웹페이지는 RAISE 3D사의 Pro2 Plus제품을 사용하기 위한 정보들을 정리해놓은 페이지이다.
+#### 목차 :
+0) ReadME.md
+1) Ideamaker(Software).md
+2) Pro2 Plus(Hardware).md
+3) RaiseCloud(Software0.md
+4) 3d-modeling-program.md
 
-Pro2 plus의 슬라이싱 소프트웨어인 IdeaMaker의 설치와 사용방법,
+번호순으로 목차를 보시는것을 추천드립니다.
+0번 : 본 목차로써 각 목차의 간략한 설명
+1번 : Slicing 프로그램인 Ideamaker의 설명과 설치방법, 설치 후 초기설정 및 Ideamaker의 사용법 정리 
+2번 : 프린터의 기계적 특성과 익스트루더, 필라멘트의 종류&특성, 프린터 사용법 정리
+3번 : 원격으로 프린터와 연결할 수 있는 플랫폼인 RaiseCloud의 사용법과 Cloud와 프린터의 bind(연결)방법, Cloud를 통해 파일을 관리하고 출력하는 방법등을 정리
+4번 : 모델의 설계에 필요한 3D program(CAD, SolidWorks)등의 설명 정리
 
-Pro2 plus 하드웨어 특성과 3D printing의 기계적 특성등을 정리한 페이지입니다.
-
-## 목록
-
-### IdeaMaker 
-
-* Install : 이 목차에서는 IdeaMaker의 설치방법과 설치후 설정등을 포함한다.
-* Function : IdeaMaker의 기능을 목록화하고 그 기능들을 설명해놓은 목차이다.
-
-### Pro2 Plus
-
-*  **Pro2 Plus** : Pro2 Plus의 기술적 사양, 지원하는 필라멘트 소재, 중량 등의 제품 정보를 포함. 또한 제품에 달려있는 태블릿 PC인 on board에 관한 세부목차인 'On board'를 포함한다.
-*  **Extruder** : Extruder가 무엇인지, Extruder의 기능 및 Extruder를 통한 필라멘트 사출의 방식 설명
-*  **Connection** : Pro2 Plus의 네트워크 연결방식을 다룬다. 네트워크 연결을 통해 PC나 mobile phone과 연결할 수 있다.
-*  **Filament** : 3D Printing에서 필라멘트란 플라스틱으로 만들어진 '줄' 형태이며 이 필라멘트를 녹여서 출력물을 만든다. 이 목차에서는 필라멘트에 쓰이는 여러 소재의 종류와 그것들의 특성,  필라멘트의 교체방식을 다룬다.
-*  **Print** : 이 목차는 출력시에 설정할 것들을 추가할 예정이다. 현재 이목차에는 출력시 성공률을 높이기 위한 방법만 포함돼있다.
-* **Fan** : Pro2 Plus의 Extruder옆과 위로 달린 Fan은 총 3개이며 이 Fan의 기능에 대한 설명을 추가할 예정이다.
-
-### Archive
-
-* 이 페이지는 Pro2 Plus로 출력한 작품들을 기록하기 위해 작성됨
-
-### Error report
-
-* 이 페이지는 출력과정에서 발생한 오류와 해당 오류의 해결방법을 제시한다.
-
-
-
+++ (추가적인 목차들)
+- archive.md : 출력한 작품들의 [제목, 출력사진, 용도, 크기, 소요시간, 결과]등을 시간순으로 나열해둠
+- error-report.md : 출력과정에서 발생한 오류와 그 해결방법을 정리해둠
 
 
