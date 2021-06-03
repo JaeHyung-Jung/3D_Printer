@@ -26,5 +26,5 @@ description: This webpage is for 3D printer usage in Sierra Base
 - archive.md : 출력한 작품들의 [제목, 출력사진, 용도, 크기, 소요시간, 결과]등을 시간순으로 나열해둠   
 - error-report.md : 출력과정에서 발생한 오류와 그 해결방법을 정리해둠   
 
-참고 자료 : https://cafe.naver.com/raise3d(Raise3D 한국 납품업체인 비욘드테크의 각종 3D프린터와 관련된 매뉴얼 제공하는 카페)
+참고 자료 : https://cafe.naver.com/raise3d (Raise3D 한국 납품업체인 비욘드테크의 각종 3D프린터와 관련된 매뉴얼 제공하는 카페)
 
