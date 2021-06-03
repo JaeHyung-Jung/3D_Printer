@@ -52,27 +52,21 @@
 
 그림을 보면 두가지 치수를 정의해줬을 뿐인데 호또한 검정색인데, 이는 호와 두 양옆 선이 탄젠트\(선과 호의 닿는부분을 서로 수평이고 일정하게 해주는 기능\)로 묶여있고 너비의 치수가 정해져있기 때문에 호의 반경또한 자동적으로 정해져서 호의 곡선또한 검정색으로 완전한 선이되었다.
 
+### 모델의 설계부터 출력까지
+3D프린터를 통한 모델의 출력은 다음과 같은 과정이 필요하다.   
+1) 3D_modeling_program(CAD, SolidWorks, ETC...)를 통해 출력하고자 하는 모델의 설계   
+![image](https://user-images.githubusercontent.com/79160507/120584301-b0fed400-c46a-11eb-9580-a8648ec87f35.png)   
 
+2) 위 프로그램으로 설계한 3D모델(확장자 : .stl, .stp)등의 파일을 3d프로그램을 통해 .stl파일로 변경하여 내보내기   
+![image](https://user-images.githubusercontent.com/79160507/120584415-e60b2680-c46a-11eb-97e9-7fb184947589.png)   
+좌측상단의 AudoCAD로고 -> 내보내기 -> 기타형식   
 
-### 어셈블리
+![image](https://user-images.githubusercontent.com/79160507/120584456-fcb17d80-c46a-11eb-895d-90af24933ee6.png)
+.stl로 3D_Model 파일 저장   
 
+3) 추출된 .stl파일을 Slicing프로그램인 Ideamaker를 통하여 연 후에 Slicing하여 .gcode파일을 프린터에 업로드   
+![image](https://user-images.githubusercontent.com/79160507/120584550-279bd180-c46b-11eb-923b-3e5139c45f4a.png)   
 
-
-
-
-### 도면
-
-
-
-
-
-
-
-
-
-
-
-
-
+4) 프린터를 통해 업로드된 .gcode파일을 출력   
 
 
