@@ -61,7 +61,7 @@
 ![image](https://user-images.githubusercontent.com/79160507/120584415-e60b2680-c46a-11eb-97e9-7fb184947589.png)   
 좌측상단의 AudoCAD로고 -> 내보내기 -> 기타형식   
 
-![image](https://user-images.githubusercontent.com/79160507/120584456-fcb17d80-c46a-11eb-895d-90af24933ee6.png)
+![image](https://user-images.githubusercontent.com/79160507/120584456-fcb17d80-c46a-11eb-895d-90af24933ee6.png)   
 .stl로 3D_Model 파일 저장   
 
 3) 추출된 .stl파일을 Slicing프로그램인 Ideamaker를 통하여 연 후에 Slicing하여 .gcode파일을 프린터에 업로드   
