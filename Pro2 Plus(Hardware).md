@@ -63,7 +63,7 @@ Machine Code Type : GCODE
 
 
 
-#### Pro2 Plus는 FFF 출력방식을 쓰는데 FFF란,
+#### Pro2 Plus는 FDM 출력방식을 쓰는데 FDM란,
 
 헤드와 필라멘트 공급장치가 결합된 채로 움직이는 방식이다. 다이렉트 방식이라 하기도 한다.
 
