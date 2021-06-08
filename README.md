@@ -1,12 +1,10 @@
 ---
-description: This webpage is for 3D printer usage in Sierra Base
+description: This webpage is for 3D printer usage in Sierra Base / 각 목차별 설명 및 본페이지 사용법
 ---
 
 # Initial page
 
 ## 사용 모델 : RAISE 3D pro2 plus
-
-## 각 목차별 설명 및 본페이지 사용법
 
 ### 목차 순서 :
 0) ReadME.md
