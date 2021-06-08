@@ -1,4 +1,4 @@
-# Qaulity_Controlling   
+# Quality_Controlling   
 Layer높이와 출력속도설정을 통한 출력품질 높이기
 
 현재 사용중인 3Dprinter 모델은 Pro2_plus_pro이며 FDM출력방식을 사용한다.   
