@@ -191,7 +191,10 @@ Support를 제거한 탁자의 모습
 * 용도 : 지지대 
 * 크기\(mm\) : 30.0 x 35.0 x 30.0 (2EA)
 * 소요 시간 / 품질 : 4시간 28분 / 고품질
-* 결과 : RaiseCloud를 사용하여 원격으로 
+* 결과 :    
+![image](https://user-images.githubusercontent.com/79160507/121883576-db933b80-cd4c-11eb-8da8-be441162bb5a.png)   
+![image](https://user-images.githubusercontent.com/79160507/121883606-e4840d00-cd4c-11eb-8df1-584c2b8d3502.png)
+RaiseCloud를 사용하여 원격으로 출력하였으며 성공적으로 출력됨
 
 ## \`YY.MM.DD
 
