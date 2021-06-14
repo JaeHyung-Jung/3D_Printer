@@ -184,14 +184,14 @@ Support를 제거한 탁자의 모습
 * 소요 시간 / 품질 : 122시간 / 최고품질
 * 결과 : ![all_3](https://user-images.githubusercontent.com/79160507/118575771-2d828900-b7c2-11eb-9ea5-245d6ecf4060.jpg)
 
-## \`YY.MM.DD
+## \`21.06.14
 
-* 제목 : 
-* 사진 : 
-* 용도 : 
-* 크기\(mm\) :
-* 소요 시간 / 품질 : 
-* 결과 : 
+* 제목 : 지지대
+* 사진 : ![image](https://user-images.githubusercontent.com/79160507/121837248-12972c00-cd10-11eb-8062-cd164cf5b064.png)
+* 용도 : 지지대 
+* 크기\(mm\) : 30.0 x 35.0 x 30.0 (2EA)
+* 소요 시간 / 품질 : 4시간 28분 / 고품질
+* 결과 : RaiseCloud를 사용하여 원격으로 
 
 ## \`YY.MM.DD
 
