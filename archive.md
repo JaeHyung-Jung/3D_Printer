@@ -203,7 +203,8 @@ RaiseCloud를 사용하여 원격으로 출력하였으며 성공적으로 출�
 * 용도 : 부품(롤러)
 * 크기\(mm\) : 284.1 x 249.1 x 13.0
 * 소요 시간 / 품질 : 11시간 24분 / 고품질   
-* 결과 : ![image](https://user-images.githubusercontent.com/79160507/121977060-0ff40f80-cdc0-11eb-82e5-4d4e9111db7c.png)   
+* 결과 :    
+![image](https://user-images.githubusercontent.com/79160507/121977060-0ff40f80-cdc0-11eb-82e5-4d4e9111db7c.png)   
 ![KakaoTalk_20210615_102131217](https://user-images.githubusercontent.com/79160507/121981241-446bc980-cdc8-11eb-9ca5-43c7f2883382.jpg)   
 ![KakaoTalk_20210615_103307713](https://user-images.githubusercontent.com/79160507/121981246-46ce2380-cdc8-11eb-9d1c-f9f637c21efa.jpg)   
 RaiseCloud를 사용하여 원격으로 출력하였으며 성공적으로 출력됨
