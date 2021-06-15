@@ -217,7 +217,9 @@ RaiseCloud를 사용하여 원격으로 출력하였으며 성공적으로 출�
 * 용도 : 부품(고정대)
 * 크기\(mm\) : 19.3 x 40.0 x 10.0 (2EA)
 * 소요 시간 / 품질 : 1시간1분 / 고품질
-* 결과 : 
+* 결과 :    
+![KakaoTalk_20210615_112617082](https://user-images.githubusercontent.com/79160507/121983653-a0385180-cdcc-11eb-974c-83d718da9744.jpg)   
+RaiseCloud를 사용하여 원격으로 출력하였으며 성공적으로 출력됨
 
 ## \`YY.MM.DD
 
