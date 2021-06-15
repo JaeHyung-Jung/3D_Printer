@@ -188,7 +188,7 @@ Support를 제거한 탁자의 모습
 
 * 제목 : 지지대
 * 사진 : ![image](https://user-images.githubusercontent.com/79160507/121837248-12972c00-cd10-11eb-8062-cd164cf5b064.png)
-* 용도 : 지지대 
+* 용도 : 부품(지지대) 
 * 크기\(mm\) : 30.0 x 35.0 x 30.0 (2EA)
 * 소요 시간 / 품질 : 4시간 28분 / 고품질
 * 결과 :    
@@ -196,14 +196,17 @@ Support를 제거한 탁자의 모습
 ![image](https://user-images.githubusercontent.com/79160507/121883606-e4840d00-cd4c-11eb-8df1-584c2b8d3502.png)
 RaiseCloud를 사용하여 원격으로 출력하였으며 성공적으로 출력됨
 
-## \`YY.MM.DD
+## \`21.06.15
 
-* 제목 : 
-* 사진 : 
-* 용도 : 
-* 크기\(mm\) :
-* 소요 시간 / 품질 : 
-* 결과 : 
+* 제목 : 롤러
+* 사진 : ![image](https://user-images.githubusercontent.com/79160507/121977282-a0caeb00-cdc0-11eb-9c09-e570b5b3323c.png)
+* 용도 : 부품(롤러)
+* 크기\(mm\) : 284.1 x 249.1 x 13.0
+* 소요 시간 / 품질 : 고품질 / 11시간 24분
+* 결과 : ![image](https://user-images.githubusercontent.com/79160507/121977060-0ff40f80-cdc0-11eb-82e5-4d4e9111db7c.png)   
+
+RaiseCloud를 사용하여 원격으로 출력하였으며 성공적으로 출력됨
+
 
 ## \`YY.MM.DD
 
