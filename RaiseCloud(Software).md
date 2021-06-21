@@ -7,7 +7,7 @@ RaiseCloud를 통해 출력상황의 카메라를 통한 모니터링, 프린트
 
 이 방법 외에 RaiseCloud를 사용하면 Wifi나 이더넷에 상관없이 Cloud를 통해서 연결을 할 수 있고
 RaiseCloud는 모바일용 Application도있어 휴대폰에서도 출력이나 프린팅 과정 모니터링이 가능하다.
-(프린트를 RaiseCloud의 계정과 Bind하는 작업이 필요한데 이미 Bind해줬으나 만약 어떠한 이유로 다시 Bind를 해야한다면 https://cloud.raise3d.com/html/howtobind.html를 참고)   
+(프린트를 RaiseCloud의 계정과 Bind하는 작업이 필요한데 이미 Bind해줬으나 만약 어떠한 이유로 다시 Bind를 해야한다면 https://cloud.raise3d.com/html/howtobind.html 를 참고)   
 
 RaiseCloud Web_Link(PC) : https://cloud.raise3d.com/raise3d.html   
 RaiseCloud APP(Mobile) : https://play.google.com/store/apps/details?id=com.raise3d.raisecloud
