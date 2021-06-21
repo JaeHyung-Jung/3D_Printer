@@ -1,6 +1,6 @@
 # 3D Modeling Program
 
-## 3D 모델링 프로그램의 종류와 특
+## 3D 모델링 프로그램의 종류와 특징     
 
 ### Auto CAD
 
